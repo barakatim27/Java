@@ -1,11 +1,9 @@
-# Java
+# The java language
 
-## The java language
+# The java Library 
 
-## The java Library 
+# Software Development using java 
 
-## Software Development using java 
-
-## Applying java 
+# Applying java 
 
 
