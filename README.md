@@ -1,9 +1,9 @@
-# The java language
+# Part One: The java language
 
-# The java Library 
+# Part Two: The java Library 
 
-# Software Development using java 
+# Part Three: Software Development using java 
 
-# Applying java 
+# Part Four: Applying java 
 
 
